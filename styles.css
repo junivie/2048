@@ -84,91 +84,91 @@ hr{
 
 .x2 {
     background-color: #eee4da;
-    color: #ffff; 
+    color: #000; 
     background-image: var(--background-image-url-02);
     background-size: 100% 100%;
 }
 
 .x4 {
     background-color: #ece0ca;
-    color: #ffff; 
+    color: #000; 
     background-image: var(--background-image-url-04);
     background-size: 100% 100%;
 }
             
 .x8 {
     background-color: #f4b17a;
-    color: #ffff; 
+    color: #000; 
     background-image: var(--background-image-url-08);
     background-size: 100% 100%;
 }
             
 .x16 {
     background-color: #f59575;
-    color: #ffff; 
+    color: #000; 
     background-image: var(--background-image-url-16);
     background-size: 100% 100%;
 }
             
 .x32 {
     background-color: #f57c5f;
-    color: #ffff; 
+    color: #000; 
     background-image: var(--background-image-url-32);
     background-size: 100% 100%;
 }
             
 .x64 {
     background-color: #f65d3b;
-    color: #ffff; 
+    color: #000; 
     background-image: var(--background-image-url-64);
     background-size: 100% 100%;
 }
             
 .x128 {
     background-color: #edce71;
-    color: #ffff; 
+    color: #000; 
     background-image: var(--background-image-url-128);
     background-size: 100% 100%;
 }
             
 .x256 {
     background-color: #edcc63;
-    color: #ffff; 
+    color: #000; 
     background-image: var(--background-image-url-256);
     background-size: 100% 100%;
 }
             
 .x512 {
     background-color: #edc651;
-    color: #ffff; 
+    color: #000; 
     background-image: var(--background-image-url-512);
     background-size: 100% 100%;
 }
             
 .x1024 {
     background-color: #eec744;
-    color: #ffff;
+    color: #000;
     background-image: var(--background-image-url-1024);
     background-size: 100% 100%;
 }
             
 .x2048 {
     background-color: #eec230;
-    color: #ffff; 
+    color: #000; 
     background-image: var(--background-image-url-2048);
     background-size: 100% 100%;
 }
             
 .x4096 {
     background-color: #fe3d3d;
-    color: #ffff; 
+    color: #000; 
     background-image: var(--background-image-url-4096);
     background-size: 100% 100%;
 }
             
 .x8192 {
     background-color: #ff2020;
-    color: #ffff;
+    color: #000;
     background-image: var(--background-image-url-8192);
     background-size: 100% 100%;
 }
